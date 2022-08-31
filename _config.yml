@@ -3,9 +3,12 @@ author:
   name: Gian Luca Matteucci
   email: glmatt@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Prima navigazione in rete? 1993.
+  E ancora adesso mi stupisco delle sue potenzialità.
+  Ma come diceva qualcuno _"Less is more"_, quindi, dopo le animazioni in Flash,
+  dopo portali basati su CMS sofisticatissimi o semplicemente nati per i blog e poi
+  diventati dei mostri senza controllo, torniamo alla semplicità, ai siti statici,
+  leggeri, dal caricamento istantaneo, col codice visibile.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
