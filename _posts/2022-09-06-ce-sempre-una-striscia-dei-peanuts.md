@@ -5,4 +5,4 @@ categories: misc
 tags: [tennis, padel, peanuts, sport]
 ---
 
-![Nessuno batte Lucy](/assets/images/2022-09-06 09.57.49.jpg "Nessuno batte Lucy")
+![Il senso della vita](/assets/images/2022-09-06 09.57.49.jpg "Il senso della vita")
