@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Prima navigazione in rete? 1993. Millenovecentonovantatre!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+E ancora adesso mi stupisco delle sue potenzialità.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Ma come diceva qualcuno _"Less is more"_, quindi, dopo le animazioni in Flash, dopo portali basati su CMS sofisticatissimi o semplicemente nati per i blog e poi diventati dei mostri senza controllo, torniamo alla semplicità, ai siti statici, leggeri, dal caricamento istantaneo, col codice visibile.
 
-
-[jekyll-organization]: https://github.com/jekyll
+E quindi sono finito qui, senza un'idea precisa, ma solo la voglia di tornare ai fondamentali, ai contenuti, alle intuizioni, alle curiosità.
