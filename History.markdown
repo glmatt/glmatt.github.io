@@ -1,5 +1,3 @@
-## Tools
-
 ### Note
 - [Obsidian](https://obsidian.md/)
 
