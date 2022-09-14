@@ -10,7 +10,7 @@ Be', c'ho provato anch'io, per gioco, prendendo spunto dal più famoso scatto di
 
 Sicuramente la conoscete ma in caso contrario:
 
-![Afgan girl](/asset/images/Sharbat_Gula.jpg "Afgan girl")
+![Afgan girl](/assets/images/Sharbat_Gula.jpg "Afgan girl")
 
 L'ho descritta così:
 > close-up of a young green-eyed afghan girl in a red dress and a red hood on a blurred green background
@@ -19,7 +19,7 @@ Era una prova, per carità, non mi aspettavo grandi risultati, ma ero molto curi
 
 Ecco il risultato.
 
-![Afgan girl from text](/asset/images/afgan-girl-from-text.png "Afgan girl from text")
+![Afgan girl from text](/assets/images/afgan-girl-from-text.png "Afgan girl from text")
 
 Se volete provare a installare il tool, rilasciato su GitHub, sulla vostra macchina (raccomandati 16 GB di RAM):
 - [Windows](https://github.com/sd-webui/stable-diffusion-webui/wiki/Installation)
