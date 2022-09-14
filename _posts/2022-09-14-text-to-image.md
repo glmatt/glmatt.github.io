@@ -21,7 +21,8 @@ Ecco il risultato.
 
 ![Afgan girl from text](/assets/images/afgan-girl-from-text.png "Afgan girl from text")
 
-Se volete provare a installare il tool, rilasciato su GitHub, sulla vostra macchina (raccomandati 16 GB di RAM):
+Se volete provare a installare il tool di [Stable Diffusione](https://stability.ai/blog/stable-diffusion-public-release), rilasciato su GitHub, sulla vostra macchina (raccomandati 16 GB di RAM):
+
 - [Windows](https://github.com/sd-webui/stable-diffusion-webui/wiki/Installation)
 - [Linux](https://github.com/sd-webui/stable-diffusion-webui/wiki/Linux-Automated-Setup-Guide)
 - [MacOS]()
